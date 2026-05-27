@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Lançamento inicial do sikbex Toolbox",
+  "pub_date": "2026-05-27T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRWZSeTAyUjZnMFZRbktVNjAxR3Jsbi9qOTQ2MnVUVG9MTzlQWlZGYVhjbHNiaXU1V2RkSUdwQW1LdHg2WUJIbHI1WmFUbjQ2NkRRZW4zK3Uvb2haNGdueWxPSWRtM0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTI2MDkxCWZpbGU6c2lrYmV4LXRvb2xib3hfMS4wLjBfeDY0LXNldHVwLmV4ZQptL2pwRHF1ZDRIWkhVZHMwY2EwNkUwb3lhd0VOem1OMXlINGMvTFgybkh0d1hSaUNaTzEzdGtRZjlFaEdxYzV2MFNrOEtVRmk3RlNJZm5vc01PTGFEQT09Cg==",
+      "url": "https://github.com/sikbex/sikbex-releases/releases/download/v1.0.0/sikbex-toolbox_1.0.0_x64-setup.exe"
+    }
+  }
+}
